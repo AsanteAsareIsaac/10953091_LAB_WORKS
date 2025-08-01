@@ -1,0 +1,14 @@
+STUDENT NAME: 10953091
+STUDENT ID: 10953091
+
+TASK 3
+Binary Thresholding Explanation
+We have:
+•	Pixel value = 180
+•	Threshold = 150
+•	Output values:
+   0 if pixel value is less than or equal to threshold
+   255 if pixel value is greater threshold
+
+Since 180 is greater than  150, 
+Then the pixel will be set to 255.
